@@ -1,4 +1,4 @@
-### 🤖🎮️ A machine learning researcher in the game field
+### 🤖🎮️ A machine learning researcher in field of virtual reality
 
 <!--
 **zade23/zade23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
