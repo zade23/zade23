@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+👨‍🎓 A little goes a long way……
+
+<p align="left">&nbsp;<img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=zade23&show_icons=true&locale=en&theme=dark" alt="zade23" /></p>
