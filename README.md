@@ -17,5 +17,8 @@ Here are some ideas to get you started:
 
 👨‍🎓 A little goes a long way……
 
+### MY GitHub Contributions
+![](https://raw.githubusercontent.com/zade23/zade23/main/assets/github-contribution-grid-snake.svg)              
+
+
 <p align="left">&nbsp;<img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=zade23&show_icons=true&locale=en&theme=dark" alt="zade23" /></p>
-![暗色](https://raw.githubusercontent.com/zade23/zade23/output/github-contribution-grid-snake-dark.svg)
