@@ -1,4 +1,4 @@
-### 🤖🎮️ A machine learning student in field of virtual reality
+### 🤖🎮️ always student .
 
 <!--
 **zade23/zade23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-👨‍🎓 A little goes a long way……
 
 ### MY GitHub Contributions
 <picture>
